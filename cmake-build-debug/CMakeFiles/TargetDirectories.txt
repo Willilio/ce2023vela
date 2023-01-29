@@ -1,0 +1,3 @@
+C:/Users/wcirw/CLionProjects/ce2023vela/cmake-build-debug/CMakeFiles/ce2023vela.dir
+C:/Users/wcirw/CLionProjects/ce2023vela/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wcirw/CLionProjects/ce2023vela/cmake-build-debug/CMakeFiles/rebuild_cache.dir
